@@ -1,10 +1,13 @@
 # 박건택, Park Geontaek
+###  *끝까지 간다 ! !*
 ### 😎Personality 
-- 생일 : 5월 13일 
+- 생일 : 1997년 5월 13일 
 - MBTI : INTP
-- 성격 : Shy 
+- 성격 : 집돌이 
 - 취미 : 기타, NETFLIX
+- 좋아하는 음악 : 윤하, 밴드음악, J rock
 - 좋아하는 음식 : 초밥, 햄버거
+
 ---
 ### 📖Education 
 - 전자전기공학 (Major in Electronics) (2017.03~2023.08)
@@ -12,13 +15,14 @@
 ---
 ### 🎈Goal 
 - SW 알고리즘 A형 취득
-- Backend 엔지니어 
+- 취뽀 하기
 ---
+### ⭐ETC
+- 기억에 남는 수업 : 자료구조
+- 백준 티어 아직 없음...
+
+ ![poster](./assets/123.jpg)
 
 <a href="https://github.com/qkrrjsxor">
 <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-</a>
-
-<a href="qkrrjsxor12@gmail.com">
-<img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
