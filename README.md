@@ -1,16 +1,16 @@
 # 박건택, Park Geontaek
-### <span style = 'background-color: #f1f8ff'>  😎Personality </span>
+### 😎Personality 
 - 생일 : 5월 13일 
 - MBTI : INTP
 - 성격 : Shy 
 - 취미 : 기타, NETFLIX
 - 좋아하는 음식 : 초밥, 햄버거
 ---
-### <span style = 'background-color: #f1f8ff'>📖Education </span>
+### 📖Education 
 - 전자전기공학 (Major in Electronics) (2017.03~2023.08)
 - SSAFY 11기 JAVA반  (2024.01~)
 ---
-### <span style = 'background-color: #f1f8ff'>🎈Goal </span>
+### 'background-color: #f1f8ff'>🎈Goal 
 - SW 알고리즘 A형 취득
 - Backend 엔지니어 
 ---
