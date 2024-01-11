@@ -1,5 +1,5 @@
 # 박건택, Park Geontaek
-###  *끝까지 간다 ! !*
+### **매일 성장하는 개발자 되기**
 ### 😎Personality 
 - 생일 : 1997년 5월 13일 
 - MBTI : INTP
@@ -10,7 +10,7 @@
 
 ---
 ### 📖Education 
-- 전자전기공학 (Major in Electronics) (2017.03~2023.08)
+- 홍익대학교 전자전기공학 (Major in Electronics) (2017.03~2023.08)
 - SSAFY 11기 JAVA반  (2024.01~)
 ---
 ### 🎈Goal 
