@@ -3,18 +3,19 @@
 ### 😎Personality 
 - 생일 : 1997년 5월 13일 
 - MBTI : INTP
-- 성격 : 집돌이 
-- 취미 : 기타, NETFLIX
+- 성격 : 집돌이, 낯 가림
+- 취미 : 기타, NETFLIX, YOUTUBE
 - 좋아하는 음악 : 윤하, 밴드음악, J rock
 - 좋아하는 음식 : 초밥, 햄버거
 
 ---
-### 📖Education 
+### 📖Career 
 - 홍익대학교 전자전기공학 (Major in Electronics) (2017.03~2023.08)
+- Onsemi 공정기술 (2023.04~2023.11)
 - SSAFY 11기 JAVA반  (2024.01~)
 ---
 ### 🎈Goal 
-- SW 알고리즘 A형 취득
+- SW 알고리즘 A+ 취득
 - 취뽀 하기
 ---
 ### ⭐ETC
